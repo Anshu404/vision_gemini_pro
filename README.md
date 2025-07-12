@@ -59,6 +59,19 @@ Edit
 ├── .env
 ├── README.md
 └── requirements.txt
+## 📷 App Preview
+
+Here are some screenshots of the working application:
+
+### 🔹 Input Prompt Interface
+![Input Prompt](assets/input_prompt.png)
+
+### 🔹 Uploaded Image View
+![Image Upload](assets/image_uploaded.png)
+
+### 🔹 Gemini Response Output
+![Gemini Response](assets/response_generated.png)
+
 📦 Example requirements.txt
 nginx
 Copy
